@@ -27,9 +27,9 @@ Suggerisco di avere un ambiente **Linux** funzionante (durante le lezioni verrà
 | 08 | 29/04/2026 | Approfondimento su data engineering |
 | 09 | 04/05/2026 | Esercizio su testing e discussione |
 | 10 | 11/05/2026 | Docker |
-| 11 | 15/05/2026 | TBD |
-| 12 | 20/05/2026 | TBD |
-| 13 | 27/05/2026 | TBD |
+| 11 | 15/05/2026 | Approfondimento devops |
+| 12 | 20/05/2026 | Docker |
+| 13 | 27/05/2026 | CICD |
 
 
 ## Come Convertire MD in PDF
